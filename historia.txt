@@ -1,2 +1,1 @@
-Esta es una nueva version v2
-agregamos texto nuevo
+Esta es una nueva version
