@@ -50,3 +50,11 @@ body
     background: white;
     padding: 1em;
 }
+#mensaje{
+    text-align: center;
+    border: 1px solid gray;
+    color: white;
+}
+#footer{
+    background-color: grey;
+}
